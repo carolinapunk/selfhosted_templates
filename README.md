@@ -13,12 +13,12 @@ The following table shows the corresponding url to use for the application you'r
 
 | Application  | URL |
 | ------------- | ------------- |
-| Yacht | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/yacht.json |
-| Yacht (arm) | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/yacht-arm.yml |
-| Portainer v1 (no OMV)  | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/portainer-v1.json  |
-| Portainer v2 (no OMV)  | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/portainer-v2.json  |
-| Portainer v1 OMV | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/omv-v1.json |
-| Portainer v2 OMV | https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/omv-v2.json|
+| Yacht | https://raw.githubusercontent.com/carolinapunk/selfhosted_templates/master/Template/yacht.json |
+| Yacht (arm) | https://raw.githubusercontent.com/carolinapunk/selfhosted_templates/master/Template/yacht-arm.yml |
+| Portainer v1 (no OMV)  | https://raw.githubusercontent.com/carolinapunk/selfhosted_templates/master/Template/portainer-v1.json  |
+| Portainer v2 (no OMV)  | https://raw.githubusercontent.com/carolinapunk/selfhosted_templates/master/Template/portainer-v2.json  |
+| Portainer v1 OMV | https://raw.githubusercontent.com/carolinapunk/selfhosted_templates/master/Template/omv-v1.json |
+| Portainer v2 OMV | https://raw.githubusercontent.com//selfhosted_templates/master/Template/omv-v2.json|
 
 
 ### Prerequisites
